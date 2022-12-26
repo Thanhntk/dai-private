@@ -6,17 +6,15 @@ order: 2
 ## Thao tác nhập liệu
 Một vài lưu ý, cũng như thông tin mô tả chung khi người dùng thao tác thêm, sửa dữ liệu trong form:
 
-
 Trong một form sẽ bao gồm nhiều trường dữ liệu, mỗi trường dữ liệu sẽ bao gồm 2 thành phần: *Tiêu đề và Ô nhập/chọn dữ liệu*.
 
 Phần *tiêu đề* hiển thị thông tin tên.Một số lưu ý các quy tắc hiển thị của chương trình/hệ thống: 
-
-- Màn hình với các nội dung bắt buộc có dấu *** đỏ phía trước**, thì trường dữ liệu không được bỏ trống, bắt buộc người dùng phải nhập dữ liệu trước khi lưu form.
+- Màn hình với các nội dung bắt buộc có dấu **đỏ phía trước**-  trường dữ liệu không được bỏ trống, bắt buộc người dùng phải nhập dữ liệu trước khi lưu thông tin.
 - Ngày giờ có định dạng YYYY/MM/DD HH:mm:ss.
 
 Phần *Ô nhập/chọn dữ liệu* cho phép người dùng nhập/chọn dữ liệu mong muốn. 
 
-Hiển thị **giới hạn ký tự** cho phép ở một số trường, ví dụ giới hạn 0/50, không hiển thị ký tự thứ 51.
+Hiển thị **giới hạn ký tự** cho phép ở một số trường, ví dụ giới hạn 0/35, không hiển thị ký tự thứ 36.
 
  ![](..\images\Limit_field.png)
 
@@ -49,25 +47,19 @@ Nếu tác vụ thực hiện thành công, sẽ có thông báo hiển thị ph
 ![](..\images\notice-create-success.png)
 
 * Tiêu đề: Ghi rõ câu lệnh+ chi tiết( không bắt buộc)
-
 * Background: xanh lá
-
 * Icon :white_check_mark:
-
-* Hiển thị lên trong 5s và tự động tắt: Thực hiện lệnh vừa tạo
+* Hiển thị lên trong 5s và tự động tắt: Thực hiện lệnh vừa tạo.
 
 Nếu tác vụ thực thi không thành công, sẽ có thông báo màu đỏ, kèm nội dung lỗi hiển thị phía trên của màn hình trình duyệt. Tuỳ vào trường hợp lỗi, hiển thị với nội dung khác nhau.
 <center>
 
 ![](..\images\data-invalid.png)
 
-*Hình 4. Nhập thông tin không hợp lệ* 
+*Hình 4. Nhập thông tin không hợp lệ*  </center>
 
 * Tiêu đề: cần ghi rõ lí do không hợp lệ
-
 * Background: đỏ
-
 * icon :x:
-
-* Hiển thị lên trong 5s và tự động tắt: không thực hiện lệnh
+* Hiển thị lên trong 5s và tự động tắt: không thực hiện lệnh.
 
