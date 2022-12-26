@@ -11,10 +11,10 @@ Hệ thống xổ xuống danh sách lựa chọn
 
 **Bước 2:** 
 Mở ra/ điều hướng tới giao diện người dùng vừa chọn:
-* [Giám sát hệ thống](./2-glossary)
-* [Tỷ lệ hiển thị](./2-glossary)
-* [Biểu đồ sự kiện](./2-glossary)
-* [Báo cáo dữ liệu](./2-glossary)
+* [Giám sát hệ thống](./3-monitor)
+* [Tỷ lệ hiển thị](./4-fillrate)
+* [Biểu đồ sự kiện](./5-event-chart)
+* [Báo cáo dữ liệu](./6-data-reporting)
 
 **Hệ thống hiển thị giao diện với các thông tin mặc định:**
 * Quick filter: 
