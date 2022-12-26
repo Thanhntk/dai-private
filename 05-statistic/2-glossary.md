@@ -6,17 +6,17 @@ order: 2
 Tại giao diện **Danh sách kênh**, click vào nút thống kê để điều hướng xem thống kê với kênh mong muốn.
 Hệ thống xổ xuống danh sách lựa chọn
 
-## Cách 2- từ Sidebar
-Tại Sidebar, click vào thống kê, Hệ thống xổ xuống danh sách lựa chọn
+# Cách 2- từ Sidebar
+**Bước 1:** Tại Sidebar, click vào thống kê, Hệ thống xổ xuống danh sách lựa chọn.
 
 **Bước 2:** 
 Mở ra/ điều hướng tới giao diện người dùng vừa chọn:
-* [ Giám sát hệ thống](./2-glossary)
-* Tỷ lệ hiển thị  ![]()
-* Biểu đồ sự kiện ![]()
-* Báo cáo dữ liệu. ![]()
+* [Giám sát hệ thống](./2-glossary)
+* [Tỷ lệ hiển thị](./2-glossary)
+* [Biểu đồ sự kiện](./2-glossary)
+* [Báo cáo dữ liệu](./2-glossary)
 
-Hệ thống hiển thị giao diện với các thông tin mặc định:
+**Hệ thống hiển thị giao diện với các thông tin mặc định:**
 * Quick filter: 
     * Kênh: các kênh thuộc danh sách kênh hiện có
     * Kênh phụ: không cho phép chọn kênh phụ trường hợp người dùng chưa chọn kênh cụ thể
