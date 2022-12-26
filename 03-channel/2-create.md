@@ -35,16 +35,10 @@ Hệ thống hiển thị Pop-up Thêm kênh mới bên phải giao diện
 Hệ thống thực hiện tạo mới kênh với lưu các thông tin vừa được nhập, hiển thị Pop-up thông báo **Tạo mới thành công** tại góc phải màn hình.
 ## Thông tin về Bumpers ad
 Bumpers là **video ngắn, không thể bỏ qua** video được chèn vào đầu hoặc cuối trước khi kết thúc điểm quảng cáo nếu đủ thời gian.
-Người dùng cấu hình chọn Asset.
+<br> Để sử dụng Bumpers, người dùng chọn asset được cấu hình sẵn từ server ThudoJSC hoặc người dùng upload file video trực tiếp lên hệ thống Sigma.
 ### Điều kiện
 Các điều kiện sau áp dụng để chèn bumpers:
-
-Loại Video
-
-Giới hạn thời lượng bumpers ad là 10 giây hoặc ít hơn. 
-
-Bumpers có thể được chèn vào điểm đầu hoặc kết thúc của quảng cáo( ad break) hoặc cả hai. 
-
-Bumpers chạy suốt quá trình chèn quảng cáo( ad break) trong phiên phát lại (playback session) trừ trường hợp cấu hình Pre-roll( Pre-roll là cấu hình quảng cáo vào điểm bắt đầu của quảng cáo). Nếu luồng được cấu hình Pre-roll, Bumpers sẽ được chèn vào điểm đầu tiên của quảng cáo sau pre-roll. (Phần BE này chưa làm)
-
-Bumpers được chuyển mã để phù hợp với nội dung nguồn.
+* Loại Video
+* Giới hạn thời lượng bumpers ad là **10 giây hoặc ít hơn.**
+* Bumpers có thể được chèn vào **điểm đầu hoặc kết thúc** của quảng cáo( ad break) hoặc **cả hai**. 
+* Bumpers **được chuyển mã** để phù hợp với nội dung nguồn.
